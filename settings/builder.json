@@ -1,0 +1,37 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.bycw.kingdom_rush",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "36f0dc9c-9312-4552-a840-9135b27f3e03",
+  "title": "kingdom_rush",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "landscape"
+  },
+  "xxteaKey": "8641d5cc-d86b-4a",
+  "zipCompressJs": true,
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "fb-instant-games": {}
+}
